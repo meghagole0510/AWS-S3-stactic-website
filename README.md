@@ -56,7 +56,7 @@ Opened the S3 website endpoint in a web browser and verified that the website wa
 
 ## 🌐 Live Website
 
-Paste your S3 Website Endpoint here.
+The website was successfully hosted and tested using Amazon S3.
 
 ## 📂 Project Structure
 
