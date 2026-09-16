@@ -65,3 +65,17 @@ AWS-S3-stactic-website/
 ├── index.html
 ├── style.css
 └── README.md
+```
+
+## 📚 What I Learned
+
+- How to create an S3 bucket
+- How to upload files to Amazon S3
+- How to enable Static Website Hosting
+- How to configure an S3 Bucket Policy
+- How to host a static website using AWS S3
+- How to connect a website with GitHub
+
+## 👩‍💻 Author
+
+Megha
